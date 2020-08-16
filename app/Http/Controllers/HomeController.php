@@ -9,8 +9,8 @@ class HomeController extends Controller
     public function index()
     {
         $data = [
-            "name" => "Kittipop Duangjai",
-            "age" => 30,
+            "name" => "Montri Kosasod",
+            "age" => 20,
         ];
         return view("welcome", $data);
     }
