@@ -46,6 +46,6 @@
     <li><a href="#">5</a></li>
 </ul>
         <hr>
-        <p>&copy; 2020 Kittipop Duangjai</p>
+        <p>&copy; 2020 Kiyto </p>
     </div>
 @endsection
